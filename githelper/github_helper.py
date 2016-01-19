@@ -3,9 +3,6 @@
 #
 #--------------------------------------------------------------
 #
-# Instant
-#               -- Go abroad for further study & grow
-#
 # helper to print out recent activities of multiple github accounts
 # Similar to contribution counted by github, but exclude issues
 #
@@ -13,10 +10,6 @@
 # use: python github_merger.py
 #
 #--------------------------------------------------------------
-#
-# Date:     2016-01-19
-#
-# Author:   1p3akproduct@gmail.com
 #
 
 import sys
